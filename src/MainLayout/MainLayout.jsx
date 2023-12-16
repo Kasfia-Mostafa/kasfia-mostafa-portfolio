@@ -74,7 +74,7 @@ const MainLayout = () => {
         </nav>
       </div>
       <div className="loader-text-wrapper block">
-        <h1 className="loader-test">amw-soon</h1>
+        <h1 className="loader-text">amw-soon</h1>
       </div>
       <div className="revealer"></div>
       <div className="pre-loader block">
