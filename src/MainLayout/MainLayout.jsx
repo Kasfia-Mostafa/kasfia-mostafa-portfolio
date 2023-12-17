@@ -79,7 +79,8 @@ const MainLayout = () => {
       <div className="revealer"></div>
       <div className="pre-loader block">
         <div className="loader-wrapper">
-          <div className="loader"></div>
+          <div className="loader">
+          </div>
         </div>
       </div>
 
